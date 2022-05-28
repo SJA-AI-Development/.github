@@ -1,2 +1,1 @@
-<link rel="stylesheet" href="main.css">
-<h1 style="font-family: monolisa;">👋 <span style="color:red;">W</span><span style="color:orange;">e</span><span style="color:yellow;">l</span><span style="color:rgb(61, 227, 61);">c</span><span style="color:rgb(0, 130, 0);">o</span><span style="color:rgb(13, 149, 194);">m</span><span style="color:blue;">e</span><span style="color:purple;">!</span></h1>
+## 👋 Welcome to our Github!
