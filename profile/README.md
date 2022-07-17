@@ -1,1 +1,1 @@
-![](/sudormrf.jpg)
+![](sudormrf.jpg)
